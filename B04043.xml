@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Lillies new prophecy, of the white-Easter, and its effects. With an account of the new blazing-star : being a full account of a strange comet lately seen in the heavens, its shape, place in the zodiack, motion, their time of continuance, and probable portents or matters thereby signified to happen in the world.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04043</idno><idno type="EEBO-CITATION">53981675</idno>
+  <idno type="VID">180271</idno>
+  <idno type="EEBO-PROQUEST">2240871543</idno>
+  
+            <idno type="STC">Wing L2234</idno>
+            <idno type="STC">ESTC R179724</idno>
+            <idno type="OCLC">53981675</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04043)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180271)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Lillies new prophecy, of the white-Easter, and its effects. With an account of the new blazing-star : being a full account of a strange comet lately seen in the heavens, its shape, place in the zodiack, motion, their time of continuance, and probable portents or matters thereby signified to happen in the world.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Phillip Brooksby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: comet.</note>
+                  <note>Imperfect: title page stained with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Comets --  Early works to 1800.</term>
+               <term type="topical_term">Omens --  Early works to 1800.</term>
+               <term type="geographic_name">Europe --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180271:1"/>
+            <p>Mr. <hi>Lillies</hi> New PROPHECY OF THE WHITE-EASTER And its Effects.</p>
+            <p>With an Account of the New <hi>BLAZING-STA<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Being a full Account of a Strange Co<g ref="char:EOLhyphen"/>met lately seen in the Heavens, its shape, place in the Zodiack, Motion, their time of Continuance and Probable Portents or Matters thereby Signified to Happen in the World.</p>
+            <q>
+               <l>Comets, the Blazing Beacons of the Sky,</l>
+               <l>Forewarn the s<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> World of Misery;</l>
+               <l>When Heave<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with such dreadful Torches burn,</l>
+               <l>It lights some <hi>State</hi> or Kingom to its Ʋr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>—Et Terris mutantem Regna Cometen.</l>
+            </q>
+            <figure>
+               <figDesc>woodcut of shooting star</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Phillip Brooksby,</hi> next <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>West-Smith-field,</hi> neer the <hi>Hospit<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180271:2"/>
+            <pb facs="tcp:180271:2"/>
+            <head>THE NEW Blazing Star, &amp;c.</head>
+            <p>VArious and Strangely different have been, and still are, the conceits of the most Learned Naturalists, concerning the Matter &amp; Generation of Comets, and so fond is each man of his own Darling Opi<g ref="char:EOLhyphen"/>nion, and eager in defending it, that we may as Rationally imagine to Unite the Two Poles of Heaven, or Conclude a Peace between the Wind and the Waves, as hope to Recon<g ref="char:EOLhyphen"/>cile all their jarring Sentiments.</p>
+            <p>
+               <hi>Aristotle</hi> (heretofore esteemed the Phylosophers Pope, whose <hi>Ipso Dixit</hi> durst <hi>Vye</hi> credit in the Schools with a De<g ref="char:EOLhyphen"/>monstration) Affirms the Matterial Cause of Comets to be, <hi>An Exhalation Hot and Dry, yet Participating of a certain Ʋnctious Moisture that renders it fat and clammy, drawn up from Moist and Hot places of the Earth, into the Highest part of the Air, and sometimes into the Starry Region, where by reason of continual supplies from below, as long as there is a working power to attract, it becomes a great Masse or L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mp closely compact to<g ref="char:EOLhyphen"/>gether: And in Convenient time, by the Excessive Heat, is there set on fire, and continues Blazing a Longer or Shorter time, ac<g ref="char:EOLhyphen"/>cording to the Scarcity or Plenty of the Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter whereof it is Composed.</hi>
+            </p>
+            <pb n="4" facs="tcp:180271:3"/>
+            <p>
+               <hi>Paracelsus</hi> (the Glory of <hi>Germany,</hi> and Wonder of his Age for Mysterious Learning) confidently asserts Comets not to be produced by any Physical Generation, and that therefore we search for them in vain amongst Causes purely Natural, but says; <hi>They are,</hi> Crescentia Singularia, <hi>Ex<g ref="char:EOLhyphen"/>traordinanily formed and composed by Spirits or Angels, to Pre<g ref="char:EOLhyphen"/>monish Mankind of some Grand Events, Good or Evil, impending and ready to break forth into Act.</hi>
+            </p>
+            <p>For these Courteous Intelligences discovering the Dire Catastrophes that are to come to pass, whilst yet they are but in the bosome of their Causes, out of a kindness they have for Humanity, and Charitable good will towards their Fellow Creatures, of which we cannot suppose these Blessed Essences to be destitute, do thereupon form or or<g ref="char:EOLhyphen"/>dain a Comet or Blazing-Star (as we vulgarly call it) and give it such figure or shape as they please, and then hurry and attract more swift or slowly, lower or higher, through the Air; that Mortals beholding it, may the more remark<g ref="char:EOLhyphen"/>ably be possessed with its Portents and Significations, and by Repentance and Amendment of Life prevent, or the better prepare themselves to suffer the Judgements threatned.</p>
+            <p>But what ever the Matterial Cause of Comets may be, this we are more then confident of: That their final Cause, or the end whereunto they are Created or made, is to fore<g ref="char:EOLhyphen"/>warn the Inhabitants of the World of some Eminent Cala<g ref="char:EOLhyphen"/>mities; as Wars, Plagues, Famines, Death of Rulers, over<g ref="char:EOLhyphen"/>throw of long establisht Governments, &amp;c. Upon, or a<g ref="char:EOLhyphen"/>mongst some People or Nations, for their Sins and Rebelli<g ref="char:EOLhyphen"/>ons against God, who does, we may perceive, make use of these Blazing-Stars, (though possibly in themselves meer Natural Means) to the Terror and Amendment of some Mortals; Even as he uses the Rainbow, to signifie the Co<g ref="char:EOLhyphen"/>venant heretofore made betwixt Himself and Mankind.</p>
+            <p>Of Comets the Learned have reckoned up about One Hundred and Sixty, to have appeared since <hi>Noahs Flood,</hi> whereof some have been very Terrible and Astonishing:
+<pb n="5" facs="tcp:180271:3"/> but all the Messengers of some Considerable▪ Mutations or Destruction; not that they are Causes of such Effects, but onely the Antecedents or Forerunners of them, the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Office being, like Beacons, to give warning to the Sin-be<g ref="char:EOLhyphen"/>sotted World, of approaching dangers: and are certain signs (but not Causes) of very eminent Catastrophes.</p>
+            <p>We now Approach to ☉ entrance into ♈ and those Astro<g ref="char:EOLhyphen"/>logical Judgements, deducible from thence, it imports the Assemblys of many worthy persons in Europe, wholy indea<g ref="char:EOLhyphen"/>vouring to salve up the last years Breaches, the Weather in<g ref="char:EOLhyphen"/>clines to hard Frost, misty Foggy deluges, and inundations follow, most uncomfortable weather for the Feast.</p>
+            <p>Not a few there are yet alive, that can well remember the prodigious Comet in 1618. The Harbinger of the <hi>German</hi> Desolation, and most unhappy Wars soon after in our own Countrey.</p>
+            <q>
+               <l>Its Streaming Blaze did fix our blood-shot Eyes,</l>
+               <l>With Wonder and Amazement to the Skies;</l>
+               <l>The sight was dreadful, but much more those things</l>
+               <l>It did Denote, to Nations and to Kings.</l>
+            </q>
+            <p>In 1652. Another Comet appeared, whose significations were not Compleated, nor its Errand Dispatcht, before three more Celestial Heralds (we mean the Comets in 1664, and 1665.) are sent to proclaim War, and denounce Vengeance against contumatious sinners.</p>
+            <p>What Superlative Actions have been since these years on the Mundane Stage, and what Vials of Divine Wrath poured forth on several parts of this Inhabitable Globe, we suppose unknown to few, and may with grief of heart be long remem<g ref="char:EOLhyphen"/>bred by many.</p>
+            <p>The Judicious M. <hi>Lilly</hi> (to whose Studies our Nation hath been so eminently Oblig'd for the Restoration of Astrology) amongst other his now Verified Predictions on that Comet in 1652. Acquainted the Inhabitants of <hi>Europe,</hi> that about the year 1672. they might again expect to behold a New Star or Comet appear.</p>
+            <pb n="6" facs="tcp:180271:4"/>
+            <p>Nor was this Famous Man (though in so dubious a mat<g ref="char:EOLhyphen"/>ter, and Predicted almost twenty years beforehand) mista<g ref="char:EOLhyphen"/>ken; For behold, towards the beginning of this present year, 1672. A Comet did accordingly manifest it self, and for ma<g ref="char:EOLhyphen"/>ny Nights together was visible in our Horizon.</p>
+            <p>That this is no framed story raised by Malecontents to varnish any Design, nor Ignorant mistake of a Paper-kite, <hi>Ignis Fatuus,</hi> or false <hi>Phoenominon,</hi> but a true and real Comet, is evident from the Testimony and Observations of divers Worthy persons, more then ordinary skilful, and curiously acquainted with such matters.</p>
+            <p>First, Mounsier <hi>Hevilius,</hi> A person sufficiently known to the Learned World, attests it in a Letter from <hi>Dantzick,</hi> to that Illustrious Society here in <hi>England,</hi> deservedly Intituled Royal, from whose curious Researches into the Mysteris of Nature, Philosophy may in short time promise it self more Improvement, and greater certainty then ever it could hope for from the empty Terms, and Barren Ver<g ref="char:EOLhyphen"/>bosity of the Schools: To this Learned assembly, thus Writes <hi>Hevilius.</hi>
+            </p>
+            <p>
+               <q rend="margQuotes">There has been seen here a new Comet, from the Second of <hi>March (Stilo Novo)</hi> 1672. (which answers to our 21. of <hi>February</hi>) 'Tis visible both Mornings and Evenings, and seems but little, having at present a Train or Tail not a<g ref="char:EOLhyphen"/>bove a Degree and a half long, but it would doubtless appear much bigger, if it were not for the Troy-light, and Neighbourhood of the Moon: It is now about the Stars in the right Arm of <hi>Adromeda,</hi> tending with a direct Diurnal motion of about two Degrees in its Course. <hi>March</hi> the 6th. 40 Minutes after 7. it was in 7. Deg. of <hi>Aries,</hi> with 25. Deg. of <hi>North Latitude,</hi> &amp;c.</q>
+            </p>
+            <p>The same was affirmed in Letters also from <hi>Paris.</hi>
+            </p>
+            <pb n="7" facs="tcp:180271:4"/>
+            <p>And at <hi>Fleshche</hi> it was seen from the 16th. day, to the 26th. Inclusively, and the reason it was so rarely observed, was be<g ref="char:EOLhyphen"/>cause for a good while it was neer the Sun, and afterwards obscured by the Moon.</p>
+            <p>
+               <hi>March</hi> the 7th. 1671/2. about 8. a Clock at Night, it was observed by an Ingenious, Gentleman in <hi>Hampshire,</hi> who Communicated his Observations to Mr. <hi>Lilly,</hi> it was then about the bigness of a Star of the third Magnitude, Solid but of a <hi>Saturnine</hi> Complexion, or Leaden colour: Its Tayl very Conspicuous, tending <hi>Eastwards.</hi> Its first appearance about the middle of <hi>Aries,</hi> whence by several observations he traced it through <hi>Taurus,</hi> till on the 21. it drew neer the be<g ref="char:EOLhyphen"/>ginning of <hi>Gemini,</hi> but then seemed very small; Its motion more slow then formerly, and the Moon increasing, it soon after disappear'd.</p>
+            <p>Mr. <hi>Lilly</hi> likewise himself, for several Nights together observed this Comet, to whom it seemed greater then a Star of the second Magnitude, and of Complexion <hi>Saturnine</hi> and <hi>Mercurial.</hi>
+            </p>
+            <p>The Type or Figure of this new Comet, and its motion, you may see in Mr. <hi>Lillies</hi> Almanack for the approaching Year 1673. From which profound and able Artist, we shall presume to Transcribe part of what he there Writes of the Portents, or signification of this late Comet.</p>
+            <p>
+               <hi>Since Mankind</hi> (saith he) <hi>would not take sufficient warning, either by that Comet-in</hi> 1652. <hi>or those in</hi> 1664. <hi>behold Provi<g ref="char:EOLhyphen"/>dence manifests another, beginning in the first Sign of the Zodi<g ref="char:EOLhyphen"/>ack, and moving direct according to the succession of the Signs, sometimes swifter, sometimes slower, as if now the great God of Nature were angry, and intended suddenly to proceed to Judge<g ref="char:EOLhyphen"/>ment against those People and Nations which have so slighted and contemned his former Admonitions: let</hi> Europe <hi>be assured the Por<g ref="char:EOLhyphen"/>tents now signified will be heavy, and of long continuance: The Actions tending thereunto, or the first Causes of them, Sudden,
+<pb n="8" facs="tcp:180271:5"/> Violent, Ʋnexpected, and Surprizing. It Manifests the beginning of more Wars and their sorrowful Effects;</hi> Viz. <hi>The flight of ma<g ref="char:EOLhyphen"/>ny from their proper Habitations, Poverty, Sudden Alarms, and Astonishments, Piracies, Scarcity of Corn, Slaughters of Man<g ref="char:EOLhyphen"/>kind, Devastation, and Burning of Cities, and Depopulations of Countries, and all this when and where least suspected; The Countries seeming most obnoxious to these Dire Effect<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are</hi> Ger<g ref="char:EOLhyphen"/>many, Poland, Holland, Constantinople, <hi>several Is<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ands in the</hi> East <hi>and</hi> W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st Indies, <hi>and some other Countries neerer home,</hi> &amp;c.</p>
+            <p>Thus Mr. <hi>Lilly</hi> in his <hi>Anglicus,</hi> 1673. Where you may read much more very soberly delivered on this Subject, and the Nature of Comets in general. 'Tis certain, <hi>Nunquam impune spectatum esse Cometen.</hi> The Noble and Ingenious French-man <hi>Du-Bartas</hi> has excellently described their Com<g ref="char:EOLhyphen"/>mon significations; With which, as Translated by our Coun<g ref="char:EOLhyphen"/>try-man, <hi>Silvister,</hi> we conclude:</p>
+            <epigraph>
+               <q>
+                  <l>—These Blazing-Stars,</l>
+                  <l>Threaten the World, with Famine, Plague, and Wars;</l>
+                  <l>To Princes death, to Kingdoms many crosses,</l>
+                  <l>To all Estates Inevitable Losses:</l>
+                  <l>To Herdsmen, Rot; To Plowmen, hapless seasons;</l>
+                  <l>To Saylors, Storms; To Cities, Civil Treasons.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
